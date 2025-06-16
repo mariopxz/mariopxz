@@ -9,7 +9,7 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
-- Visita mi web [aquí](https://mariorous.netlify.app/) para aprender más sobre mi.
+- Visita mi web [aquí](https://mariopxz.com/) para aprender más sobre mi.
 
 ### 📬 Social media:
 <p align="left">
