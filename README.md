@@ -51,6 +51,6 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 )
 
 ## 📫 Contact
-Puedes contactarme en hellomariorous@gmail.com.
+Puedes contactarme en ml.delarosa@outlook.es.
 <br>
-Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/mariorous/). 
+Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/mariopxz/). 
