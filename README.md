@@ -2,7 +2,7 @@
 
 <h1 align="left"><b>Hi , I'm Mario López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
+Soy un desarrollador de 23 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy mejorando mis habilidades de backend con NodeJS y Express 💻 <br>
 🌱 Estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, TypeScript y más. <br>
 ⚡ Si tienes consejos interesantes de programación, sígueme en mi Instagram para contactar conmigo. <br>
