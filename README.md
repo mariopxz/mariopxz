@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=mariopxz&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F67478429%3Fu%3Dd88ac252a2bdec51705360c0dab6750b06bcc786%26v%3D4" alt="mariopxz hero visual" />
 </p>
 
-<p align="center"><b>Mario López</b> · Frontend or full-stack engineer<br/><sub>💻 Frontend Developer  ☕ Coffee Lover</sub></p>
+<p align="center"><b>Mario López</b> · Full Stack Developer<br/><sub>💻 Full Stack Developer  ☕ Coffee Lover</sub></p>
 
 <p align="center"><a href="https://github.com/mariopxz">GitHub</a> · <a href="https://www.mariopxz.com">Website</a></p>
 
