@@ -16,10 +16,8 @@
 
 - [gesper-theme](https://github.com/mariopxz/gesper-theme) · ★ 1 — Gesper Theme is a Visual Studio Code theme based on the Vesper Theme from raunofreiberg, with a litt
 - [mochi](https://github.com/mariopxz/mochi) · ★ 0 — 🍡 Mochi — Your personal link hub. Built with React, Node.js, Express and MySQL.
-- [passy](https://github.com/mariopxz/passy) · ★ 0
+- [passy](https://github.com/mariopxz/passy) · ★ 0 - Passy is a password generator built with React and Tailwind CSS
 - [portfolio](https://github.com/mariopxz/portfolio) · ★ 0
-- [prueba-tecnica-north-gsap](https://github.com/mariopxz/prueba-tecnica-north-gsap) · ★ 0
-- [spendly](https://github.com/mariopxz/spendly) · ★ 0 — spendly is an application for the users can manage his economy more easier
 
 </details>
 
