@@ -14,10 +14,10 @@
   <img src="https://www.gitskins.com/api/section/projects?username=mariopxz&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F67478429%3Fu%3Dd88ac252a2bdec51705360c0dab6750b06bcc786%26v%3D4" alt="mariopxz projects visual" />
 </p>
 
-- [gesper-theme](https://github.com/mariopxz/gesper-theme) · ★ 1 — Gesper Theme is a Visual Studio Code theme based on the Vesper Theme from raunofreiberg, with a litt
+- [gesper-theme](https://github.com/mariopxz/gesper-theme) · ★ 1 — Gesper Theme is a Visual Studio Code theme based on the Vesper Theme from raunofreiberg.
 - [mochi](https://github.com/mariopxz/mochi) · ★ 0 — 🍡 Mochi — Your personal link hub. Built with React, Node.js, Express and MySQL.
-- [passy](https://github.com/mariopxz/passy) · ★ 0 - Passy is a password generator built with React and Tailwind CSS
-- [portfolio](https://github.com/mariopxz/portfolio) · ★ 0
+- [passy](https://github.com/mariopxz/passy) · ★ 0 — Passy is a password generator built with React and Tailwind CSS.
+- [portfolio](https://github.com/mariopxz/portfolio) · ★ 0 — My personal website.
 
 </details>
 
